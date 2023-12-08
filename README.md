@@ -14,3 +14,8 @@
 2. CS50s Introduction to Artificial Intelligence: (Short series) https://youtube.com/playlist?list=PLhQjrBD2T381PopUTYtMSstgk-hsTGkVm&si=eBDEoyIYNZTQ-eiB
 3. Understanding  MDPs : https://youtu.be/9g32v7bK3Co?si=guPQxDsCvhMhgp4C
 4. Reinforcement Learning (Optional): https://youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u&si=8E173A7SVUCKwziV
+
+
+Final Grade for CS-214-AI-Lab **AB**
+Grades for Assignments
+![Screenshot 2023-12-08 092315](https://github.com/hrishi483/CS-214-AI-Lab/assets/118972159/ffb22d9d-a7a0-4702-a083-24d64c96d530)
